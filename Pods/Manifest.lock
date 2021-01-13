@@ -1,0 +1,16 @@
+PODS:
+  - FlyoverKit (1.2.2)
+
+DEPENDENCIES:
+  - FlyoverKit (~> 1.2.0)
+
+SPEC REPOS:
+  trunk:
+    - FlyoverKit
+
+SPEC CHECKSUMS:
+  FlyoverKit: 5c34d155a9ac8fc85af795eeca243bc51ebee15f
+
+PODFILE CHECKSUM: 762a39b4bb63763a728491e1d440b465662bfdad
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,6 @@
+framework module Pods_beachtraveler_beachtravelerUITests {
+  umbrella header "Pods-beachtraveler-beachtravelerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
